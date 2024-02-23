@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body{
+    background-image: url(Abstract-Gray-Polygon-background.jpg);
+    background-size: 180vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 5vh;
+}
+body h3{
+    font-family: "Roboto Mono", monospace;
+}
